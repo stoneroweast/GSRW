@@ -3,4 +3,4 @@ Read dan write to cell in Google Spreadsheet using ESP8266 with ESP8266HttpClien
 ## GSRW.ino
 Example demonstrate basic function read and write to cell in  Google SpreadSheet
 ## GSRWScript.gs
-
+Example Google Script to read and write cell in Google Spreadsheet 
