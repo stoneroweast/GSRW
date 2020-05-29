@@ -1,5 +1,9 @@
-var SS = SpreadsheetApp.openById('1qzsgFov0xAfjVGOnN6NPAbl3JkClp9E3VJ1v7B6xy38');
-var sheet = SS.getSheetByName('Sheet1');
+// Created by Ridwan Nurmatullah, 2020
+// Inspirated by HTTPSRedirct by Sujay S. Phadke, Github: https://github.com/electronicsguy
+// Use this file with GSWR.ino or GSWR_Led.ino
+
+var SS = SpreadsheetApp.openById('1qzsgFov0xAfjVGOnN6NPAbl3JkClp9E3VJ1v7B6xy38'); // replace with your ID sheet
+var sheet = SS.getSheetByName('Sheet1'); //replace with your sheet name if diffrent
 
 function doGet(e){
   
