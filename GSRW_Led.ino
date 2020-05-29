@@ -19,7 +19,7 @@
 const char* ssid     = "BIS.NET 3";
 const char* password = "pild0614";
 
-String httpsAddr =  "https://script.google.com/macros/s/AKfycbyn8obG5LG6SKmF2h5EE5D6nK-beXdq50_nYnpDvzmc0ZhVcMo/exec";
+String httpsAddr =  "https://script.google.com/macros/s/AKfycbyn8obG5LG6SKmF2h5EE5D6nK-beXdq50_nYnpDvzmc0ZhVcMO/exec";
 
 char *cellName  = "A1";
 
